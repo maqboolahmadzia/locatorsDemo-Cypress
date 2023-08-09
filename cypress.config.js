@@ -7,5 +7,5 @@ module.exports = defineConfig({
     },
     specPattern: 'cypress/e2e/*.cy.js'
   },
-  defaultCommandTimeout: 15000 // Set the default timeout to 15000 milliseconds
+  defaultCommandTimeout: 2000 // Set the default timeout to 2000 milliseconds
 });
