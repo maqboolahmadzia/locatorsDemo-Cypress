@@ -27,7 +27,7 @@ To get started with Cypress Locators Example, follow these steps:
 3. Run Cypress in interactive mode using:
    ```bash
    npm run cypressOpen
-   OR Run Cypress tests in headless mode using:   
+4. OR Run Cypress tests in headless mode using:   
    ```bash
    npm run cypressRun
 
