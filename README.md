@@ -1,6 +1,6 @@
 # Cypress Locators Example
 
-A comprehensive example showcasing the use of Cypress locators for automated web testing. Learn how to select and interact with elements using different locator techniques.
+A comprehensive example showcasing the use of Cypress locators for automated web testing. Expressing how to select and interact with elements using different locator techniques.
 
 ## Table of Contents
 
@@ -25,9 +25,10 @@ To get started with Cypress Locators Example, follow these steps:
    ```bash
    npm install
 3. Run Cypress in interactive mode using:
+   ```bash
    npm run cypressOpen
-   OR
-   Run Cypress tests in headless mode using:
+   OR Run Cypress tests in headless mode using:   
+   ```bash
    npm run cypressRun
 
 ## Usage
